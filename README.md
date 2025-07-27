@@ -45,6 +45,7 @@ This project combines an ultrasonic sensor, a line tracker, a buzzer, and a DHT2
 ### 2. Install Dependencies
 
 ```bash
+git clone https://github.com/digital1986/Timothy-Sensors-integration
 sudo apt-get update
 sudo apt-get install python3-pip
 pip3 install Adafruit_DHT
