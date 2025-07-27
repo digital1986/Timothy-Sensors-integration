@@ -1,3 +1,7 @@
+ [![Link to Video](https://chatgpt.com/s/m_68868cd793308191a7b027f94ae683cf)](https://www.youtube.com/shorts/MIEfrskdpz0)
+
+
+
 # Ultrasonic Obstacle Detector with Buzzer and Temperature Sensor (Raspberry Pi)
 
 This project combines an ultrasonic sensor, a line tracker, a buzzer, and a DHT22 temperature/humidity sensor using a Raspberry Pi. The system detects nearby obstacles and environmental conditions, then activates a buzzer if necessary.
