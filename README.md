@@ -78,7 +78,10 @@ Press `Ctrl+C` to stop the script.
 
 ## 👤 Author
 
-**Your Name** Timothy Nwadike  
+ Name** 
+ 
+ 
+Name : [Timothy Nwadike]  
 [GitHub Profile](https://github.com/digital1986/Timothy-Sensors-integration.git)
 
 ---
