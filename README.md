@@ -84,6 +84,6 @@ This project is open-source under the [MIT License](https://opensource.org/licen
 ## 👤 Author
 
 **Your Name**  
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile]()
 
 ---
