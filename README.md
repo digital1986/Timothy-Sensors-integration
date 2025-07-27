@@ -1,4 +1,4 @@
- [![Link to Video](https://chatgpt.com/s/m_68868cd793308191a7b027f94ae683cf)](https://www.youtube.com/shorts/MIEfrskdpz0)
+ [![Link to Video](https://arduinointro.com/images/piezo/piezo_ultrasonic/piezo-ultrasonic-cover-900.jpg)](https://www.youtube.com/shorts/MIEfrskdpz0)
 
 
 
