@@ -74,16 +74,11 @@ Press `Ctrl+C` to stop the script.
 - `README.md`: Project documentation.
 
 ---
-
-## 📄 License
-
-This project is open-source under the [MIT License](https://opensource.org/licenses/MIT).
-
 ---
 
 ## 👤 Author
 
-**Your Name**  
-[GitHub Profile]()
+**Your Name** Timothy Nwadike  
+[GitHub Profile](https://github.com/digital1986/Timothy-Sensors-integration.git)
 
 ---
